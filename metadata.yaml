@@ -1,0 +1,30 @@
+_repo: The-Oera-Linda-BookFrom-A-Manuscript-of-the-Thirteenth-Century_40986
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Sandbach, William R.
+    gutenberg_agent_id: '40923'
+    url: http://www.gutenberg.org/2009/agents/40923
+  - agent_name: Ottema, J. G. (Jan Gerhardus)
+    alias: Ottema, J. O.
+    birthdate: 1804
+    deathdate: 1879
+    gutenberg_agent_id: '34624'
+    url: http://www.gutenberg.org/2009/agents/34624
+covers:
+- cover_type: archival
+  image_path: 40986-h/images/new-cover.jpg
+description: 'Wikipedia: http://en.wikipedia.org/wiki/Oera_Linda'
+gutenberg_issued: '2012-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40986'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frisian language -- Texts'
+- !lcc 'PF'
+title: The Oera Linda Book, from a Manuscript of the Thirteenth Century
+url: http://www.gutenberg.org/ebooks/40986
